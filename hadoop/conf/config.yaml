@@ -70,11 +70,11 @@ core-site.xml:
     hadoop.proxyuser.mapred.groups: "*"
     hadoop.proxyuser.yarn.hosts: "*"
     hadoop.proxyuser.yarn.groups: "*"
-    hadoop.proxyuser.hue.hosts: "10.10.10.178"
+    hadoop.proxyuser.hue.hosts: "x.x.x.x"
     hadoop.proxyuser.hue.groups: "*"
-    hadoop.proxyuser.oozie.hosts: "10.10.10.178,10.10.10.39"
+    hadoop.proxyuser.oozie.hosts: "x.x.x.x,x.x.x.x"
     hadoop.proxyuser.oozie.groups: "*"
-    hadoop.proxyuser.httpfs.hosts: "10.10.10.178"
+    hadoop.proxyuser.httpfs.hosts: "x.x.x.x"
     hadoop.proxyuser.httpfs.groups: "*"
     topology.script.file.name: /etc/hadoop/conf/rackware
     dfs.client.socket-timeout: 1000000
